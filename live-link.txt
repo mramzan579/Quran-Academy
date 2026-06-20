@@ -1,1 +1,1 @@
-[ PLACEHOLDER: Insert your live Netlify deployment URL here once deployed, e.g., https://quran-academy-demo.netlify.app ]
+[ https://quranacademydemo.netlify.app/ ]
